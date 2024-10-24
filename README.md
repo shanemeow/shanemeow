@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="/gif/media/6-23-2015/fUKR4j.gif" title="Makeagif Gifs">
-    <img src="https://cdn.discordapp.com/attachments/665243074590670927/1297930693434671134/loading.gif?ex=6717b7a7&is=67166627&hm=d7be4f95e3d84a1b401a3b765c86bb015553058732bc1ae3f76356e0d9a9ae46&" alt="Makeagif Gifs">
+  <a href="/gif/media/cat-dance-dancing-cat-chinese-dancing-cat-funny-cat-meme-cat-gif-18059553370350307210.gif" title="Makeagif Gifs">
+    <img src="https://tenor.com/view/cat-dance-dancing-cat-chinese-dancing-cat-funny-cat-meme-cat-gif-18059553370350307210" alt="Makeagif Gifs">
   </a>
 </p>
 
@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/corrupteuxyz" target="_blank">
+  <a href="https://twitter.com/kodexer" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-F0F0F0.svg?style=for-the-badge&logo=Twitter&logoColor=Black" alt="Twitter">
   </a>
-  <a href="mailto:corruptus@exploit.im">
+  <a href="mailto:pombarlover@outlook.de">
     <img src="https://img.shields.io/badge/Email-F0F0F0.svg?style=for-the-badge&logo=Gmail&logoColor=Black" alt="Email">
   </a>
 </p>
@@ -40,8 +40,8 @@
 
 <h3 align="center">More about me:</h3>
 <p align="center">
-  Visit <a href="https://swat.wiki/u/Corrupt">Swat Wiki</a>
-  Visit <a href="https://doxbin.org/user/Corrupteu">Doxbin</a>
+  Visit <a href="https://swat.wiki/u/shane">Swat Wiki</a>
+  Visit <a href="https://doxbin.org/user/shanemeow">Doxbin</a>
 </p>
 
 <p align="center">
