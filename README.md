@@ -1,6 +1,6 @@
 <p align="center">
   <a href="/gif/media/cat-dance-dancing-cat-chinese-dancing-cat-funny-cat-meme-cat-gif-18059553370350307210.gif" title="Makeagif Gifs">
-    <img src="https://tenor.com/view/cat-dance-dancing-cat-chinese-dancing-cat-funny-cat-meme-cat-gif-18059553370350307210" alt="Makeagif Gifs">
+    <img src="https://cdn.discordapp.com/attachments/1299011031082995753/1299025976319021107/200.gif?ex=671bb3b7&is=671a6237&hm=5c21aace118b4348c30ff3943779622c5a2f276ac693d3e55bb8b73da952317c&" alt="Makeagif Gifs">
   </a>
 </p>
 
